@@ -8,6 +8,9 @@
           "value": "Debug"
         }
       },
+      "environment": {
+        "CompiledPluginsPath": "E:\\andb_skyrim_6\\projects\\hdtSMP64Build"
+      },
       "errors": {
         "deprecated": true
       },
